@@ -4,7 +4,7 @@
   <img src="abstract.png" alt="Overview Diagram" width="500">
 </p>
 
-The paper and poster will be presented at the [Data on the Brain & Mind](https://data-brain-mind.github.io/) NeurIPS 2025 Workshop.
+The paper and poster was presented at the [Data on the Brain & Mind](https://data-brain-mind.github.io/) NeurIPS 2025 Workshop. You can find the paper [here](https://openreview.net/forum?id=YoS4Wc2WYo) on openreview.
 
 As the workshop paper is non-archival we are unable share the full repository (training, data, etc.). Once the full work is published this repository will be updated to show the full code. 
 
